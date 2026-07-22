@@ -1,3 +1,5 @@
+<img width="1344" height="749" alt="2" src="https://github.com/user-attachments/assets/4b2eba5e-8301-4364-aa64-ec6e8e04442a" />
+<img width="1345" height="750" alt="1" src="https://github.com/user-attachments/assets/0eac8b48-fc37-43c3-a517-da6682924b0d" />
 # HR Analytics Dashboard - Talent Acquisition & Attrition Insights
 
 ## 📌 Project Overview
